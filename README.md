@@ -1,3 +1,5 @@
+https://choosealicense.com/licenses/cc-by-4.0/
+
 Plaintext of the Creative Commons Attribution 4.0 International
 (CC-BY-4.0) license from blog.creativecommons.org
 
